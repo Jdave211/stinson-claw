@@ -1,0 +1,7 @@
+hinge-data/
+.DS_Store
+*.zip
+*.tar.gz
+agent.log
+node_modules/
+__pycache__/
