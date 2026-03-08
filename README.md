@@ -44,6 +44,7 @@ Core scripts:
 - `scripts/appium-ios.js`: Appium session helpers
 - `scripts/onboarding.js`: workspace init/validation/config helpers
 
+![Hinge-Logo](./assets/Hinge_Logo.png)
 ## Quick Start
 
 ### 1. Mac and Xcode setup
@@ -260,6 +261,9 @@ tail -f hinge-data/appium.log
 ```bash
 node scripts/hinge-agent-daemon.js --stop --dir hinge-data
 ```
+
+### 14. Alternative Setup
+Just paste setup & skill into your coding agent, input your openai api key & plug in your phone.
 
 ## Keys and Secrets
 
