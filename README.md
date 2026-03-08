@@ -262,7 +262,7 @@ tail -f hinge-data/appium.log
 node scripts/hinge-agent-daemon.js --stop --dir hinge-data
 ```
 
-### 14. Alternative Setup
+### 15. Alternative Setup
 Just paste setup & skill into your coding agent, input your openai api key & plug in your phone.
 
 ## Keys and Secrets
